@@ -1,0 +1,16 @@
+{
+  "name": "datafactory",
+  "version": "1.0.0",
+  "author": {
+    "name": "Infinity Development @ Infinity Dev#0001"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "bluebird": "^3.4.1",
+    "moment": "^2.17.0",
+    "mongoose": "^5.7.0",
+    "mongoose-long": "^0.3.1",
+    "winston": "https://github.com/InfinityDevTech/winston",
+    "winston-sentry": "^0.1.4"
+  }
+}

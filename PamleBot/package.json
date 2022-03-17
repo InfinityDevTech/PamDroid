@@ -1,0 +1,33 @@
+{
+  "name": "paml-bot",
+  "version": "0.5.0",
+  "description": "The Pamle bot, its custom made for the Pamle economy. Great for pamle dollars.",
+  "scripts": {
+    "start": "node --no-warnings src/start.js"
+  },
+  "main": "src/start.js",
+  "repository": "https://github.com/InfinityDevTech/PamlBot/",
+  "author": "InfinityDevTech",
+  "license": "MIT",
+  "dependencies": {
+    "async-each": "^1.0.3",
+    "datafactory": "S:\\Pamles\\PamleDatafactory",
+    "dotenv": "^16.0.0",
+    "eris": "^0.16.1",
+    "eris-message-collector": "^1.0.5",
+    "eslint": "^8.10.0",
+    "getenv": "^1.0.0",
+    "glob": "^7.2.0",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "pamle-core": "S:\\Pamles\\PamleCore",
+    "path": "^0.12.7",
+    "prettier": "^2.5.1",
+    "require-reload": "^0.2.2",
+    "simple-discord-webhooks": "^1.1.1",
+    "util": "^0.12.4",
+    "winston": "https://github.com/InfinityDevTech/winston",
+    "winston-sentry": "^0.2.1",
+    "ytdl-core": "^4.11.0"
+  }
+}
